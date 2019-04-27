@@ -10,9 +10,9 @@ gitment_client_id:
 gitment_client_secret:
 
 # valine comment
-valine: false
-leancloud_id: 
-leancloud_key: 
+valine: true
+leancloud_id: HW01rEmb5YbfM7jD6PUf3PUv-gzGzoHsz
+leancloud_key: hV2h0dbqaFKgxOWo4GiCKd80
 
 # disqus comment
 disqus: false
