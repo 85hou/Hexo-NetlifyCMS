@@ -77,7 +77,7 @@ theme: Hacker
 
 douban:
   user: mr.85hou
-  builtin: true
+  builtin: false
   book:
     title: '书'
     quote: '记录一下读的书'
